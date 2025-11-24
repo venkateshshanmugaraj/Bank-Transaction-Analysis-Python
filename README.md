@@ -45,10 +45,9 @@ This project focuses on analyzing bank transaction data using Python. It include
 
     df['Balance'].iloc[-1]
 
+ Identified if the account ended with zero balance, positive, or negative balance.
 
-    Identified if the account ended with zero balance, positive, or negative balance.
-
-    Highlighted unusual or unexpected ending balances.
+ Highlighted unusual or unexpected ending balances.
 
 
 ## 5. Identify High-Value Transactions
@@ -60,9 +59,9 @@ This project focuses on analyzing bank transaction data using Python. It include
 
 ### Categorized them into:
 
-    * High-value debits
+  * High-value debits
 
-    * High-value credits
+  * High-value credits
 
 
 ### Useful for detecting major spending or incoming funds.
@@ -72,15 +71,15 @@ This project focuses on analyzing bank transaction data using Python. It include
 
 ### Grouped transactions based on type, such as:
 
-    * Cash withdrawal
+  * Cash withdrawal
 
-    * UPI/Online payments
+  * UPI/Online payments
 
-    * EMI/Loan
+  * EMI/Loan
 
-    * Salary/Income
+  * Salary/Income
 
-    * ATM transactions
+  * ATM transactions
 
 ### Helps in understanding spending patterns.
 
@@ -89,26 +88,26 @@ This project focuses on analyzing bank transaction data using Python. It include
 
 ## Generated insights such as:
 
-    * Total spending per month
+  * Total spending per month
 
-    * Total credits (income) per month
+  * Total credits (income) per month
 
-    * Highest spending category
+  * Highest spending category
 
-    * Top spending dates
+  * Top spending dates
 
-    * Recurring expenses
+  * Recurring expenses
 
 
 # 8. Detect Unusual Patterns
 
-    * Identified duplicate transactions
+  * Identified duplicate transactions
 
-    * Spikes in daily expenditure
+  * Spikes in daily expenditure
 
-    * Large sudden debits
+  * Large sudden debits
 
-    * Unexpected balance drops
+  * Unexpected balance drops
 
 This helps in fraud detection and financial review.
 
@@ -117,11 +116,11 @@ This helps in fraud detection and financial review.
 
 ## Created visual reports using:
 
-    * Bar charts (monthly spending)
+  * Bar charts (monthly spending)
 
-    * Line charts (balance movement)
+  * Line charts (balance movement)
 
-    * Pie charts (category-wise expenses)
+  * Pie charts (category-wise expenses)
 
 These visuals make the data easy to understand.
 
@@ -130,43 +129,43 @@ These visuals make the data easy to understand.
 
 ## Created a final summary including:
 
-    * Total debits & credits
+  * Total debits & credits
 
-    * Highest debit & highest credit
+  * Highest debit & highest credit
 
-    * Number of high-value transactions
+  * Number of high-value transactions
 
-    * Monthly expense comparison
+  * Monthly expense comparison
 
-    * Ending balance
+  * Ending balance
 
 This becomes the final deliverable of the analysis.
 
 
 # 🛠️ Tech Stack
 
-    * **Python 3**
+   * **Python 3**
 
-    * **Pandas**
+  * **Pandas**
 
-    * **NumPy**
+  * **NumPy**
 
-    * **Matplotlib / Seaborn**
+  * **Matplotlib / Seaborn**
 
-    * **Jupyter Notebook / VS Code**
+  * **Jupyter Notebook / VS Code**
 
 
 # 🎯 Project Outcome
 
 ## By the end of this project, the bank transaction data is fully cleaned, analyzed, and visualized. The analysis highlights:
 
-    * Spending behavior
+  * Spending behavior
 
-    * Income trends
+  * Income trends
 
-    * Potential issues or anomalies
+  * Potential issues or anomalies
 
-    * High-value transactions
+  * High-value transactions
 
 Final financial summary
 
